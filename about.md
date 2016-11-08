@@ -3,6 +3,6 @@ title: About
 layout: page
 ---
 
-<img src="assets/images/banner.jpg" />
+![banner](../images/banner.jpg)!
 
 ### General Info
