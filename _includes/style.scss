@@ -24,16 +24,14 @@
 @import "components/spoiler";
 
 
-table{
+table {
     border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #ff0000;
+    width: 50%;
 }
 
-th{
-    border:2px solid #000000;
+th, td {
+    text-align: left;
+    padding: 8px;
 }
 
-td{
-    border:1px solid #000000;
-}
+tr:nth-child(even){background-color: #f2f2f2}
