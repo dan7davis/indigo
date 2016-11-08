@@ -37,5 +37,21 @@
                 </li>
             {% endif %}
         {% endif %}        
+
+        {% if site.organizers == true %}
+            {% if page.call != "Organizers" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/organizers">Organizers</a>
+                </li>
+            {% endif %}
+        {% endif %}
+        
+        {% if site.schedule == true %}
+            {% if page.call != "Schedule" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/schedule">Schedule</a>
+                </li>
+            {% endif %}
+        {% endif %}
     </ul>
 </nav>
