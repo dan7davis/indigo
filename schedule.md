@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### Schedule
-<font color="#666666" face="HelveticaNeue-Light" >
+
 | Time | Activity |
 | --- | --- |
 | 8:30 am | Welcome and Introduction  |
@@ -16,5 +16,5 @@ layout: page
 | 11:50 am | Wrapping up |
 | 12:00 pm | End Workshop |
 
-</font>
+
 
