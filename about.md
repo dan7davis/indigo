@@ -3,6 +3,6 @@ title: About
 layout: page
 ---
 
-![](..assets/images/banner.jpg)
+![](post-MOOC/assets/images/banner.jpg)
 
 ### General Info
