@@ -7,12 +7,11 @@ layout: page
 
 
 
-#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328)  <br />  
-<img src="http://www.iconsdb.com/icons/download/deep-pink/circle-512.png" height="30px" width="30px" border="1px">
+#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328)  <img src="http://www.iconsdb.com/icons/download/deep-pink/circle-512.png" height="30px" width="30px" border="1px" alight="right"> 
 <br />  
 Elle is a Doctoral Research Fellow in Cognitive Sciences at Columbia University Teachers College. Her current research focuses on Massive Online Open Courses (MOOCs) learner motivation and prediction of learner post-course development, with the goal of building frameworks toward operationalizing MOOC learner success. Specifically, her projects takes a comprehensive approach by linking three sources of learner data: pre-course learner motivation, within-course learner engagement, as well as post-course development. Particularly, measurement of post-course development reflects both individual learner career development as well as advancement of communities of practice. Her recent publications can be seen in Journal of Online Learning and Teaching and Journal of Learning Analytics.
 <br />  
-#### [Dan Davis]() <br />  
+#### [Dan Davis](http://www.dandavis.nl/research) <br />  
 <img src="http://www.iconsdb.com/icons/download/deep-pink/circle-512.png" height="30px" width="30px" border="1px">
 <br />  
 Dan is a Ph.D. candidate at TU Delft in the Netherlands. Housed in the Lambda-Lab in the Web Information Systems group, his research explores how changes in the online learning environment can effect increases in both student success and engagement. He primarily does so by testing various theory-based (from educational and cultural psychology) interventions in working towards a heightened level of adaptivity in scalable online education.
