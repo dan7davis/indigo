@@ -6,4 +6,19 @@ layout: page
 ### Schedule
 
 
-MOOC research is typically limited to evaluations of learner behavior in the context of the learning environment. However, some research has begun to recognize that the impact of MOOCs may extend beyond the confines of the course platform or conclusion of the course time limit. This workshop aims to encourage our community of learning analytics researchers to examine the relationship between performance and engagement within the course and learner behavior and development beyond the course. This workshop intends to build awareness in the community regarding the importance of research measuring multiplatform activity and long-term success after taking a MOOC. We hope to build the community’s understanding of what it takes to operationalize MOOC learner success in a novel context by employing data traces across the social web. 
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
