@@ -74,6 +74,8 @@ width: normal
 # if you don't need "about" or "blog", comment them out below
 about: true
 call: true
+organizers: true
+schedule: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
