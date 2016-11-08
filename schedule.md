@@ -14,7 +14,7 @@ layout: page
 | 10:20  | “Birds of a feather” small groups |
 | 11:30  | Discussant presentations  |
 | 11:50  | Wrapping up |
-| 12:00  | End Workshop |
+| 12:00  | End workshop |
 
 
 
