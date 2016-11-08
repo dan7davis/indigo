@@ -5,9 +5,9 @@ layout: page
 
 ### Organizers
 
-<p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
 
-#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328) <br />  
+
+#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328) <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="20px" width="20px" border="1px"></p> <br />  
 Elle is a Doctoral Research Fellow in Cognitive Sciences at Columbia University Teachers College. Her current research focuses on Massive Online Open Courses (MOOCs) learner motivation and prediction of learner post-course development, with the goal of building frameworks toward operationalizing MOOC learner success. Specifically, her projects takes a comprehensive approach by linking three sources of learner data: pre-course learner motivation, within-course learner engagement, as well as post-course development. Particularly, measurement of post-course development reflects both individual learner career development as well as advancement of communities of practice. Her recent publications can be seen in Journal of Online Learning and Teaching and Journal of Learning Analytics.
 
 #### [Dan Davis]() <br />  
