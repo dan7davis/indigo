@@ -9,19 +9,19 @@ This workshop aims to generate awareness in the community that considering learn
       
 Presentations on finished, ongoing, and proposed studies, as well as facilitated discussion sessions are planned to develop a preliminary framework to illustrate the current development of the field and to inspire attendees to come up with exciting new lines of research of their own. Toward building this framework, the following guiding questions are included:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Data source: Where and how can learner post-development data be collected?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Tools: What analytical tools are useful in analyzing datasets merged from multiple sources?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Methods: What analytical methods have been used? What other methods can be applied?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Generalizability: What kind of practices and findings are domain-general or not?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Ethics: What are relevant ethics question in the process of collecting learner long-term development data?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Data source: Where and how can learner post-development data be collected? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Tools: What analytical tools are useful in analyzing datasets merged from multiple sources? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Methods: What analytical methods have been used? What other methods can be applied? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Generalizability: What kind of practices and findings are domain-general or not? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Ethics: What are relevant ethics question in the process of collecting learner long-term development data? <br/>  
 
 ## Submission Instructions
 
 We provide two submission types in order to maximize participation opportunities and create a discussion that is as timely as possible. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Short papers (3 to 5 pages) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Abstracts (1-2 pages)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Short papers (3 to 5 pages) <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Abstracts (1-2 pages)<br/>  
 
 All papers should follow the ACM Proceedings Format (same as LAK research track submissions). The submission will be handled via EasyChair https://easychair.org/conferences/?conf=2017moocpcd
 
