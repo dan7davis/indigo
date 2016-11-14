@@ -9,19 +9,19 @@ This workshop aims to generate awareness in the community that considering learn
       
 Presentations on finished, ongoing, and proposed studies, as well as facilitated discussion sessions are planned to develop a preliminary framework to illustrate the current development of the field and to inspire attendees to come up with exciting new lines of research of their own. Toward building this framework, the following guiding questions are included:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Data source: Where and how can learner post-development data be collected? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Tools: What analytical tools are useful in analyzing datasets merged from multiple sources? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Methods: What analytical methods have been used? What other methods can be applied? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Generalizability: What kind of practices and findings are domain-general or not? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Ethics: What are relevant ethics question in the process of collecting learner long-term development data? <br/>  
+*   Data source: Where and how can learner post-development data be collected?   
+*   Tools: What analytical tools are useful in analyzing datasets merged from multiple sources?   
+*   Methods: What analytical methods have been used? What other methods can be applied?  
+*   Generalizability: What kind of practices and findings are domain-general or not? 
+*   Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)?  
+*   Ethics: What are relevant ethics question in the process of collecting learner long-term development data?   
 
 ## Submission Instructions
 
 We provide two submission types in order to maximize participation opportunities and create a discussion that is as timely as possible. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Short papers (3 to 5 pages) <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Abstracts (1-2 pages)<br/>  
+*   Short papers (3 to 5 pages)  
+*   Abstracts (1-2 pages)
 
 All papers should follow the ACM Proceedings Format (same as LAK research track submissions). The submission will be handled via EasyChair https://easychair.org/conferences/?conf=2017moocpcd
 
@@ -41,18 +41,3 @@ Judy Kay, Professor, University of Sydney, Australia
 December 21st – Deadline for submissions
 January 15th - Notifications of acceptance
 January 20th - (early bird registration deadline) confirmation of attendance
-
-
-
-*   The source indentation of item text can vary for different items
-    (but continuation lines must be indented by the same amount as
-    the item text that they are continuing).
-
-    Additional paragraphs of item text (after a blank line) also
-    require this indentation, with the extra requirement that it be
-    four to seven spaces more than the item symbol or number.
-
-    * These indentation requirements are the same for sub-list items
-      (but apply to their symbol or number, not their item text).
-
-*   Blank lines between list items are optional, avoid them.
