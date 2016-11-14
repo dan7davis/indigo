@@ -23,21 +23,21 @@ We provide two submission types in order to maximize participation opportunities
 *   Short papers (3 to 5 pages)  
 *   Abstracts (1-2 pages)
 
-All papers should follow the ACM Proceedings Format (same as LAK research track submissions). The submission will be handled via EasyChair https://easychair.org/conferences/?conf=2017moocpcd
+All papers should follow the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template) (same as LAK research track submissions). The submission will be handled via EasyChair https://easychair.org/conferences/?conf=2017moocpcd
 
 We will publish accepted papers and abstracts in a Workshop Proceeding, and with authors’ permission, presentation materials. The proceedings will also include a summary of the workshop and will be published online.
 
 ### Program Committee:
 
-Ryan Baker, Associate Professor, University of Pennsylvania, USA
-Bodong Chen, Assistant Professor, University of Minnesota, USA
-Richard Glassey, Assistant Professor, Royal Institute of Technology, Sweden 
-Claudia Hauff, Assistant Professor, Delft University of Technology, The Netherlands
-Sharon Hsiao, Assistant Professor, Arizona State University, USA
-Judy Kay, Professor, University of Sydney, Australia
+*   Ryan Baker, Associate Professor, University of Pennsylvania, USA
+*   Bodong Chen, Assistant Professor, University of Minnesota, USA
+*   Richard Glassey, Assistant Professor, Royal Institute of Technology, Sweden 
+*   Claudia Hauff, Assistant Professor, Delft University of Technology, The Netherlands
+*   Sharon Hsiao, Assistant Professor, Arizona State University, USA
+*   Judy Kay, Professor, University of Sydney, Australia
 
 ### Important Dates:
 
-December 21st – Deadline for submissions
-January 15th - Notifications of acceptance
-January 20th - (early bird registration deadline) confirmation of attendance
+December 21st – Deadline for submissions </br>
+January 15th - Notifications of acceptance </br>
+January 20th - (early bird registration deadline) confirmation of attendance </br>
