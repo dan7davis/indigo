@@ -9,12 +9,12 @@ This workshop aims to generate awareness in the community that considering learn
       
 Presentations on finished, ongoing, and proposed studies, as well as facilitated discussion sessions are planned to develop a preliminary framework to illustrate the current development of the field and to inspire attendees to come up with exciting new lines of research of their own. Toward building this framework, the following guiding questions are included:
 
-*   Data source: Where and how can learner post-development data be collected?   
-*   Tools: What analytical tools are useful in analyzing datasets merged from multiple sources?   
-*   Methods: What analytical methods have been used? What other methods can be applied?  
-*   Generalizability: What kind of practices and findings are domain-general or not? 
-*   Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)?  
-*   Ethics: What are relevant ethics question in the process of collecting learner long-term development data?   
+*   *Data source*: Where and how can learner post-development data be collected?   
+*   *Tools*: What analytical tools are useful in analyzing datasets merged from multiple sources?   
+*   *Methods*: What analytical methods have been used? What other methods can be applied?  
+*   *Generalizability*: What kind of practices and findings are domain-general or not? 
+*   *Applicability*: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)?  
+*   *Ethics*: What are relevant ethics question in the process of collecting learner long-term development data?   
 
 ## Submission Instructions
 
