@@ -38,6 +38,6 @@ We will publish accepted papers and abstracts in a Workshop Proceeding, and with
 
 ### Important Dates:
 
-December 21st – Deadline for submissions </br>
-January 15th - Notifications of acceptance </br>
-January 20th - (early bird registration deadline) confirmation of attendance </br>
+December 21st – Deadline for submissions </br>  
+January 15th - Notifications of acceptance </br>  
+January 20th - (early bird registration deadline) confirmation of attendance </br>  
