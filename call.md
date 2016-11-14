@@ -41,3 +41,18 @@ Judy Kay, Professor, University of Sydney, Australia
 December 21st – Deadline for submissions
 January 15th - Notifications of acceptance
 January 20th - (early bird registration deadline) confirmation of attendance
+
+
+
+*   The source indentation of item text can vary for different items
+    (but continuation lines must be indented by the same amount as
+    the item text that they are continuing).
+
+    Additional paragraphs of item text (after a blank line) also
+    require this indentation, with the extra requirement that it be
+    four to seven spaces more than the item symbol or number.
+
+    * These indentation requirements are the same for sub-list items
+      (but apply to their symbol or number, not their item text).
+
+*   Blank lines between list items are optional, avoid them.
