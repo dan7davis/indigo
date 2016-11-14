@@ -13,7 +13,7 @@ Presentations on finished, ongoing, and proposed studies, as well as facilitated
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Tools: What analytical tools are useful in analyzing datasets merged from multiple sources? <br/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Methods: What analytical methods have been used? What other methods can be applied? <br/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Generalizability: What kind of practices and findings are domain-general or not? <br/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)? <br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Applicability: How can research findings translate into actionable insights for various stakeholders (learners, instructors, administrators, investors, etc.)? :: <br/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Ethics: What are relevant ethics question in the process of collecting learner long-term development data? <br/>  
 
 ## Submission Instructions
