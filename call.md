@@ -23,7 +23,7 @@ We provide two submission types in order to maximize participation opportunities
 *   Short papers (3 to 5 pages)  
 *   Abstracts (1-2 pages)
 
-All papers should follow the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template) (same as LAK research track submissions). The submission will be handled via EasyChair https://easychair.org/conferences/?conf=2017moocpcd
+All papers should follow the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template) (same as LAK research track submissions). The submission will be handled via EasyChair [https://easychair.org/conferences/?conf=2017moocpcd](https://easychair.org/conferences/?conf=2017moocpcd)
 
 We will publish accepted papers and abstracts in a Workshop Proceeding, and with authors’ permission, presentation materials. The proceedings will also include a summary of the workshop and will be published online.
 
