@@ -7,9 +7,11 @@ layout: page
 
 
 
-#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328)  <img src="http://www.iconsdb.com/icons/download/deep-pink/circle-512.png" height="40px" width="40px" border="0px" align="right"> 
+#### [Elle Yuan Wang](http://www.columbia.edu/~yw2328)*  <img src="http://www.iconsdb.com/icons/download/deep-pink/circle-512.png" height="40px" width="40px" border="0px" align="right"> 
 
 Elle is a Doctoral Research Fellow in Cognitive Sciences at Columbia University Teachers College. Her current research focuses on Massive Online Open Courses (MOOCs) learner motivation and prediction of learner post-course development, with the goal of building frameworks toward operationalizing MOOC learner success. Specifically, her projects takes a comprehensive approach by linking three sources of learner data: pre-course learner motivation, within-course learner engagement, as well as post-course development. Particularly, measurement of post-course development reflects both individual learner career development as well as advancement of communities of practice. Her recent publications can be seen in Journal of Online Learning and Teaching and Journal of Learning Analytics.
+
+*Primary Contact
 
 #### [Dan Davis](http://www.dandavis.nl/research) <img src="http://www.wis.ewi.tudelft.nl/fileadmin/wis/homepages/davis/images/dan.jpg" height="40px" width="40px" border="0px" align="right"> 
 
