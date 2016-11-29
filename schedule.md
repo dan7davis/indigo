@@ -3,7 +3,7 @@ title: Schedule
 layout: page
 ---
 
-The workshop will be held as part of the 7th International Learning Analytics & Knowledge Conference [LAK17](http://lak17.solaresearch.org/) in Simon Fraser University, Vancouver, BC, Canada. The workshop will be held on either Monday, March 13th or Tuesday, March 14th, 2017. The exact date and detailed schedule will be updated as soon as it is available. 
+The workshop will be held as part of the 7th International Learning Analytics & Knowledge Conference [LAK17](http://lak17.solaresearch.org/) in Simon Fraser University, Vancouver, BC, Canada. The workshop will be held on **Monday, March 13th, 2017**. 
 
 ### Tentative Schedule
 
