@@ -35,6 +35,7 @@ We will publish accepted papers and abstracts in a Workshop Proceeding, and with
 *   Claudia Hauff, Assistant Professor, Delft University of Technology, The Netherlands
 *   Sharon Hsiao, Assistant Professor, Arizona State University, USA
 *   Judy Kay, Professor, University of Sydney, Australia
+*   Michael Richey, PhD,  Engineering Educational Research, The Boeing Company
 *   Rob Rubin, Director of Professional Degree, Microsoft
 
 ### Important Dates:
