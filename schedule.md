@@ -18,7 +18,7 @@ The workshop will be held as part of the 7th International Learning Analytics & 
 
 | Time | Session | Authors |
 |------|:-------:|---------|
-| 1:00 - 1:15 pm |Welcome and Introduction| |
+|1:00-1:15pm |Welcome and Introduction| |
 | 1:15 - 1:45 pm | Keynote presentation: “Engagement and Longitudinal Career Development” |Ryan Baker, Associate Professor, University of Pennsylvania, USA|
 | 1:50 - 2:10 pm |Talk 1 - “Engaging MOOC Learners as Lifelong Collaborators”| Chris Brooks, Rebecca Quintana, Hui Liang- University of  Michigan, USA|
 |2:10 - 2:30 pm |Talk 2 - "Beyond the MOOC Platform: Gaining Insights about Learners from the Social Web” |Dan Davis, Guanliang Chen - Delft University of Technology, The Netherlands|
