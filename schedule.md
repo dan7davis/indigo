@@ -19,6 +19,7 @@ The workshop will be held as part of the 7th International Learning Analytics & 
 | Time | Session | Authors |
 |------|:-------:|---------|
 | 1:00 pm to 1:15 am |Welcome and Introduction| |
+| 1:00 pm to 1:15 am |Welcome and Introduction| |
 
 | 1:15 pm to 1:45 pm | Keynote presentation: “Engagement and Longitudinal Career Development” |Ryan Baker, Associate Professor, University of Pennsylvania, USA|
 
